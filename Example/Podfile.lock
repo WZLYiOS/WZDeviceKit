@@ -1,0 +1,16 @@
+PODS:
+  - WZDeviceKit (1.0.0)
+
+DEPENDENCIES:
+  - WZDeviceKit (from `../`)
+
+EXTERNAL SOURCES:
+  WZDeviceKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WZDeviceKit: fd23adb2000a8ca8751cc6db05b7da7d1395515a
+
+PODFILE CHECKSUM: 747c3c3ffcdf32302b2baaedaba1225c4c5f7d29
+
+COCOAPODS: 1.9.1

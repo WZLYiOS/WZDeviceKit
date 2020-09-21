@@ -1,0 +1,6 @@
+use_frameworks!
+
+target 'WZDeviceKit_Example' do
+  pod 'WZDeviceKit', :path => '../'
+
+end
